@@ -1,0 +1,2 @@
+serviceClass: com.gelegele.client.GreetingService
+path: A31C4F82C6544C8026E02E31BE587C18.gwt.rpc
